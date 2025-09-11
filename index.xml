@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 4</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Quartz 4</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>index</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description><![CDATA[ Welcome to my Online vault of notes! This is where I’ll put all of my notes. Notes: Web and Mobile Application Development . ]]></description>
+    <pubDate>Thu, 11 Sep 2025 06:18:16 GMT</pubDate>
+  </item><item>
+    <title>fieldset</title>
+    <link>https://quartz.jzhao.xyz/My-Vault---Published/HTML_CSS/Notes/HTML-Tags/fieldset</link>
+    <guid>https://quartz.jzhao.xyz/My-Vault---Published/HTML_CSS/Notes/HTML-Tags/fieldset</guid>
+    <description><![CDATA[ HTML Fieldset Tag The &lt;fieldset&gt; tag in HTML is used to group related elements within a form. ]]></description>
+    <pubDate>Thu, 11 Sep 2025 05:32:32 GMT</pubDate>
+  </item><item>
+    <title>HTML Tags</title>
+    <link>https://quartz.jzhao.xyz/My-Vault---Published/HTML_CSS/Notes/HTML-Tags</link>
+    <guid>https://quartz.jzhao.xyz/My-Vault---Published/HTML_CSS/Notes/HTML-Tags</guid>
+    <description><![CDATA[ HTML Tags List HTML Tags are fundamental elements used to structure and format content on web pages. ]]></description>
+    <pubDate>Thu, 11 Sep 2025 05:28:22 GMT</pubDate>
+  </item><item>
+    <title>code</title>
+    <link>https://quartz.jzhao.xyz/My-Vault---Published/HTML_CSS/Notes/HTML-Tags/code</link>
+    <guid>https://quartz.jzhao.xyz/My-Vault---Published/HTML_CSS/Notes/HTML-Tags/code</guid>
+    <description><![CDATA[ The HTML &lt;code&gt; tag is a semantic element used to define a piece of computer code. ]]></description>
+    <pubDate>Thu, 11 Sep 2025 05:20:50 GMT</pubDate>
+  </item><item>
+    <title>div</title>
+    <link>https://quartz.jzhao.xyz/My-Vault---Published/HTML_CSS/Notes/HTML-Tags/div</link>
+    <guid>https://quartz.jzhao.xyz/My-Vault---Published/HTML_CSS/Notes/HTML-Tags/div</guid>
+    <description><![CDATA[ HTML &lt;div&gt; tag The &lt;div&gt; tag divides contents into sections and serve as flexible container for text, images and links. ]]></description>
+    <pubDate>Thu, 11 Sep 2025 05:15:06 GMT</pubDate>
+  </item><item>
+    <title>caption</title>
+    <link>https://quartz.jzhao.xyz/My-Vault---Published/HTML_CSS/Notes/HTML-Tags/caption</link>
+    <guid>https://quartz.jzhao.xyz/My-Vault---Published/HTML_CSS/Notes/HTML-Tags/caption</guid>
+    <description><![CDATA[ The &lt;caption&gt; tag in HTML is used to provide a title or description for a &lt;table&gt; element. ]]></description>
+    <pubDate>Wed, 10 Sep 2025 13:30:59 GMT</pubDate>
+  </item><item>
+    <title>button</title>
+    <link>https://quartz.jzhao.xyz/My-Vault---Published/HTML_CSS/Notes/HTML-Tags/button</link>
+    <guid>https://quartz.jzhao.xyz/My-Vault---Published/HTML_CSS/Notes/HTML-Tags/button</guid>
+    <description><![CDATA[ HTML Button Tag The &lt;button&gt; tag in HTML is used to create clickable buttons on a web page. ]]></description>
+    <pubDate>Wed, 10 Sep 2025 13:23:10 GMT</pubDate>
+  </item><item>
+    <title>break</title>
+    <link>https://quartz.jzhao.xyz/My-Vault---Published/HTML_CSS/Notes/HTML-Tags/break</link>
+    <guid>https://quartz.jzhao.xyz/My-Vault---Published/HTML_CSS/Notes/HTML-Tags/break</guid>
+    <description><![CDATA[ HTML br Tag The &lt;br&gt; tag in HTML is used to create a line break in the text, causing the content that follows it to appear on a new line. ]]></description>
+    <pubDate>Wed, 10 Sep 2025 12:32:27 GMT</pubDate>
+  </item><item>
+    <title>bold</title>
+    <link>https://quartz.jzhao.xyz/My-Vault---Published/HTML_CSS/Notes/HTML-Tags/bold</link>
+    <guid>https://quartz.jzhao.xyz/My-Vault---Published/HTML_CSS/Notes/HTML-Tags/bold</guid>
+    <description><![CDATA[ The &lt;b&gt; Tag The &lt;b&gt; tag in HTML is used to make the enclosed text bold, giving it greater emphasis or visual importance. ]]></description>
+    <pubDate>Wed, 10 Sep 2025 12:26:08 GMT</pubDate>
+  </item><item>
+    <title>body</title>
+    <link>https://quartz.jzhao.xyz/My-Vault---Published/HTML_CSS/Notes/HTML-Tags/body</link>
+    <guid>https://quartz.jzhao.xyz/My-Vault---Published/HTML_CSS/Notes/HTML-Tags/body</guid>
+    <description><![CDATA[ HTML body Tag The &lt;body&gt; tag in HTML defines the main content of a web page and is always placed within the html tag as its last child. ]]></description>
+    <pubDate>Wed, 10 Sep 2025 12:15:51 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
