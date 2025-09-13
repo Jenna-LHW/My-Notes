@@ -1,9 +1,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/README.md</loc>
-    <lastmod>2025-09-10T06:53:17.312Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/Django/Django</loc>
+    <lastmod>2025-09-12T18:24:40.741Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/Django/Notes/Django-Syntax/Boolean-Operators</loc>
+    <lastmod>2025-09-12T18:28:32.893Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/Django/Notes/Getting-Started-with-Django/Django-Project-MVT-Structure</loc>
+    <lastmod>2025-09-12T18:20:55.147Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/Django/Notes/Getting-Started-with-Django/Django-Project</loc>
+    <lastmod>2025-09-12T17:59:38.769Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/Django/Notes/My-Django-Setup</loc>
+    <lastmod>2025-09-12T17:48:51.898Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/HTML_CSS</loc>
+    <lastmod>2025-09-12T17:31:16.698Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/CSS-Properties</loc>
+    <lastmod>2025-09-12T17:30:23.002Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/CSS-Properties/@charset-Rule</loc>
+    <lastmod>2025-09-12T15:32:37.875Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/CSS-Rules</loc>
+    <lastmod>2025-09-12T16:31:07.834Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/CSS-Selectors</loc>
+    <lastmod>2025-09-12T17:24:33.655Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Attributes</loc>
+    <lastmod>2025-09-12T11:57:46.291Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Attributes/methods</loc>
+    <lastmod>2025-09-12T13:14:18.774Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Attributes/name</loc>
+    <lastmod>2025-09-12T12:48:04.194Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Tags</loc>
-    <lastmod>2025-09-11T05:28:22.855Z</lastmod>
+    <lastmod>2025-09-12T15:07:19.296Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Tags/!DOCTYPE-html</loc>
     <lastmod>2025-09-10T05:34:05.894Z</lastmod>
@@ -41,6 +77,48 @@
     <loc>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Tags/fieldset</loc>
     <lastmod>2025-09-11T05:32:32.341Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Tags/figcaption</loc>
+    <lastmod>2025-09-12T10:27:14.559Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Tags/figure</loc>
+    <lastmod>2025-09-12T10:40:44.315Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Tags/footer</loc>
+    <lastmod>2025-09-12T10:57:23.890Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Tags/form</loc>
+    <lastmod>2025-09-12T12:40:31.829Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Tags/head</loc>
+    <lastmod>2025-09-12T13:25:33.239Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Tags/header</loc>
+    <lastmod>2025-09-12T14:41:37.814Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Tags/heading</loc>
+    <lastmod>2025-09-12T14:49:45.390Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Tags/html</loc>
+    <lastmod>2025-09-12T14:56:43.264Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Tags/image</loc>
+    <lastmod>2025-09-12T15:03:53.524Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Tags/input-Types/text</loc>
+    <lastmod>2025-09-12T15:26:17.123Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Tags/input</loc>
+    <lastmod>2025-09-12T15:27:32.510Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/Introduction-to-CSS</loc>
+    <lastmod>2025-09-12T16:35:15.056Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/Introduction-to-HTML</loc>
+    <lastmod>2025-09-12T16:15:31.327Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/Web-and-Mobile-Application-Development</loc>
+    <lastmod>2025-09-12T17:39:04.548Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/</loc>
-    <lastmod>2025-09-12T04:20:16.946Z</lastmod>
+    <lastmod>2025-09-13T14:39:44.339Z</lastmod>
   </url></urlset>

@@ -10,61 +10,61 @@
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
     <description><![CDATA[ Welcome To My Online Vault Of Notes Here you can find all of my notes. So enjoy! Notes: Web and Mobile Application Development . ]]></description>
-    <pubDate>Fri, 12 Sep 2025 04:20:16 GMT</pubDate>
+    <pubDate>Sat, 13 Sep 2025 14:39:44 GMT</pubDate>
   </item><item>
-    <title>fieldset</title>
-    <link>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Tags/fieldset</link>
-    <guid>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Tags/fieldset</guid>
-    <description><![CDATA[ HTML Fieldset Tag The &lt;fieldset&gt; tag in HTML is used to group related elements within a form. ]]></description>
-    <pubDate>Thu, 11 Sep 2025 05:32:32 GMT</pubDate>
+    <title>Boolean Operators</title>
+    <link>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/Django/Notes/Django-Syntax/Boolean-Operators</link>
+    <guid>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/Django/Notes/Django-Syntax/Boolean-Operators</guid>
+    <description><![CDATA[ Django Templates Tags - Boolean Operators Django provides the ability to use conditional logic like if, else, and elif using Boolean operators within templates. ]]></description>
+    <pubDate>Fri, 12 Sep 2025 18:28:32 GMT</pubDate>
   </item><item>
-    <title>HTML Tags</title>
-    <link>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Tags</link>
-    <guid>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Tags</guid>
-    <description><![CDATA[ HTML Tags List HTML Tags are fundamental elements used to structure and format content on web pages. ]]></description>
-    <pubDate>Thu, 11 Sep 2025 05:28:22 GMT</pubDate>
+    <title>Django</title>
+    <link>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/Django/Django</link>
+    <guid>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/Django/Django</guid>
+    <description><![CDATA[ Django is a Python framework that simplifies web development by handling complex tasks for you. ]]></description>
+    <pubDate>Fri, 12 Sep 2025 18:24:40 GMT</pubDate>
   </item><item>
-    <title>code</title>
-    <link>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Tags/code</link>
-    <guid>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Tags/code</guid>
-    <description><![CDATA[ The HTML &lt;code&gt; tag is a semantic element used to define a piece of computer code. ]]></description>
-    <pubDate>Thu, 11 Sep 2025 05:20:50 GMT</pubDate>
+    <title>Django Project MVT Structure</title>
+    <link>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/Django/Notes/Getting-Started-with-Django/Django-Project-MVT-Structure</link>
+    <guid>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/Django/Notes/Getting-Started-with-Django/Django-Project-MVT-Structure</guid>
+    <description><![CDATA[ Django Project MVT Structure Django follows the MVT (Model-View-Template) architectural pattern, which is a variation of the traditional MVC (Model-View-Controller) design pattern used in web development. ]]></description>
+    <pubDate>Fri, 12 Sep 2025 18:20:55 GMT</pubDate>
   </item><item>
-    <title>div</title>
-    <link>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Tags/div</link>
-    <guid>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Tags/div</guid>
-    <description><![CDATA[ HTML &lt;div&gt; tag The &lt;div&gt; tag divides contents into sections and serve as flexible container for text, images and links. ]]></description>
-    <pubDate>Thu, 11 Sep 2025 05:15:06 GMT</pubDate>
+    <title>Django Project</title>
+    <link>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/Django/Notes/Getting-Started-with-Django/Django-Project</link>
+    <guid>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/Django/Notes/Getting-Started-with-Django/Django-Project</guid>
+    <description><![CDATA[ Create a new Django project Once Django is installed, we can start to create a new Django project Step 1: Start a new Django project django-admin start project project_name Step 2: Navigate to the project directory cd project_name Step 3: Start the server python manage.py runserver Step 4: Verify th... ]]></description>
+    <pubDate>Fri, 12 Sep 2025 17:59:38 GMT</pubDate>
   </item><item>
-    <title>caption</title>
-    <link>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Tags/caption</link>
-    <guid>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Tags/caption</guid>
-    <description><![CDATA[ The &lt;caption&gt; tag in HTML is used to provide a title or description for a &lt;table&gt; element. ]]></description>
-    <pubDate>Wed, 10 Sep 2025 13:30:59 GMT</pubDate>
+    <title>My Django Setup</title>
+    <link>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/Django/Notes/My-Django-Setup</link>
+    <guid>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/Django/Notes/My-Django-Setup</guid>
+    <description><![CDATA[ In order to use Django, you must have Python 3 on your operating system. ]]></description>
+    <pubDate>Fri, 12 Sep 2025 17:48:51 GMT</pubDate>
   </item><item>
-    <title>button</title>
-    <link>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Tags/button</link>
-    <guid>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Tags/button</guid>
-    <description><![CDATA[ HTML Button Tag The &lt;button&gt; tag in HTML is used to create clickable buttons on a web page. ]]></description>
-    <pubDate>Wed, 10 Sep 2025 13:23:10 GMT</pubDate>
+    <title>Web and Mobile Application Development</title>
+    <link>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/Web-and-Mobile-Application-Development</link>
+    <guid>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/Web-and-Mobile-Application-Development</guid>
+    <description><![CDATA[ Welcome Welcome to my notes for Web and Mobile Application Development. ]]></description>
+    <pubDate>Fri, 12 Sep 2025 17:39:04 GMT</pubDate>
   </item><item>
-    <title>break</title>
-    <link>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Tags/break</link>
-    <guid>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Tags/break</guid>
-    <description><![CDATA[ HTML br Tag The &lt;br&gt; tag in HTML is used to create a line break in the text, causing the content that follows it to appear on a new line. ]]></description>
-    <pubDate>Wed, 10 Sep 2025 12:32:27 GMT</pubDate>
+    <title>HTML_CSS</title>
+    <link>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/HTML_CSS</link>
+    <guid>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/HTML_CSS</guid>
+    <description><![CDATA[ Introduction to HTML Introduction to HTML Some HTML reference point: HTML Tags HTML Attributes Introduction to CSS Introduction to CSS Some CSS reference point: CSS Rules CSS Selectors CSS Properties . ]]></description>
+    <pubDate>Fri, 12 Sep 2025 17:31:16 GMT</pubDate>
   </item><item>
-    <title>bold</title>
-    <link>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Tags/bold</link>
-    <guid>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Tags/bold</guid>
-    <description><![CDATA[ The &lt;b&gt; Tag The &lt;b&gt; tag in HTML is used to make the enclosed text bold, giving it greater emphasis or visual importance. ]]></description>
-    <pubDate>Wed, 10 Sep 2025 12:26:08 GMT</pubDate>
+    <title>CSS Properties</title>
+    <link>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/CSS-Properties</link>
+    <guid>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/CSS-Properties</guid>
+    <description><![CDATA[ CSS Properties CSS properties are the foundation of web design, used to style and control the behaviour of HTML elements. ]]></description>
+    <pubDate>Fri, 12 Sep 2025 17:30:23 GMT</pubDate>
   </item><item>
-    <title>body</title>
-    <link>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Tags/body</link>
-    <guid>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/HTML-Tags/body</guid>
-    <description><![CDATA[ HTML body Tag The &lt;body&gt; tag in HTML defines the main content of a web page and is always placed within the html tag as its last child. ]]></description>
-    <pubDate>Wed, 10 Sep 2025 12:15:51 GMT</pubDate>
+    <title>CSS Selectors</title>
+    <link>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/CSS-Selectors</link>
+    <guid>https://quartz.jzhao.xyz/Web-and-Mobile-Application-Development/HTML_CSS/Notes/CSS-Selectors</guid>
+    <description><![CDATA[ CSS Selectors CSS Selectors are used to target HTML elements on your pages, allowing you to apply styles based on their ID, class, attributes and more. ]]></description>
+    <pubDate>Fri, 12 Sep 2025 17:24:33 GMT</pubDate>
   </item>
     </channel>
   </rss>
